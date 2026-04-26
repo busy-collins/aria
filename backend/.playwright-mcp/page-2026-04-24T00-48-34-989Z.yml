@@ -1,0 +1,18 @@
+- generic [ref=e2]:
+  - separator [ref=e3]
+  - iframe [ref=e8]:
+    - generic [ref=f2e2]:
+      - generic [ref=f2e3]:
+        - checkbox "I'm not a robot" [ref=f2e7]
+        - generic [ref=f2e11]: I'm not a robot
+      - generic [ref=f2e15]: reCAPTCHA
+  - separator [ref=e9]
+  - generic [ref=e10]:
+    - text: About this page
+    - text: Our systems have detected unusual traffic from your computer network. This page checks to see if it's really you sending the requests, and not a robot.
+    - link "Why did this happen?" [ref=e11] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=e12]:
+      - text: "IP address: 102.88.54.178"
+      - text: "Time: 2026-04-24T00:48:34Z"
+      - text: "URL: https://www.google.com/search?q=NVIDIA+AI+chip+market+2026+forecast&sca_esv=e42243e293ad428e&source=hp&ei=073qad7KH73MhbIPqs7yoA0&iflsig=AFdpzrgAAAAAaerL40f_VD-uOShEQceN6RWt2dDVJkue&ved=0ahUKEwiegJP4oYWUAxU9ZkEAHSqnHNQQ4dUDCA0&uact=5&oq=NVIDIA+AI+chip+market+2026+forecast&gs_lp=Egdnd3Mtd2l6IiNOVklESUEgQUkgY2hpcCBtYXJrZXQgMjAyNiBmb3JlY2FzdEgGUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwCACAA&sclient=gws-wiz&sei=4b3qafCvEvXZi-gP84iG2AY"

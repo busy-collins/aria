@@ -1,0 +1,391 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner [ref=e4]:
+      - generic [ref=e8]:
+        - link "Statista Homepage" [ref=e9] [cursor=pointer]:
+          - /url: https://www.statista.com
+          - img [ref=e10]
+        - search [ref=e25]:
+          - textbox "Search" [ref=e26]:
+            - /placeholder: Search Statistics
+          - button "Search for content" [ref=e27] [cursor=pointer]:
+            - img [ref=e28]
+        - generic [ref=e30]:
+          - navigation "Primary" [ref=e32]:
+            - list [ref=e33]:
+              - listitem [ref=e34]:
+                - generic [ref=e35]:
+                  - link "Statistics" [ref=e36] [cursor=pointer]:
+                    - /url: /markets/
+                  - button "Statistics" [ref=e37] [cursor=pointer]:
+                    - img [ref=e38]
+              - listitem [ref=e40]:
+                - button "Insights" [ref=e41] [cursor=pointer]:
+                  - text: Insights
+                  - img [ref=e42]
+              - listitem [ref=e44]:
+                - link "Research AI" [ref=e45] [cursor=pointer]:
+                  - /url: /research-ai/
+              - listitem [ref=e46]:
+                - generic [ref=e47]:
+                  - link "Connect" [ref=e48] [cursor=pointer]:
+                    - /url: /business/connect-api/
+                    - text: Connect
+                    - generic [ref=e49]: New
+                  - button "Connect" [ref=e50] [cursor=pointer]:
+                    - img [ref=e51]
+              - listitem [ref=e53]:
+                - link "Daily Data" [ref=e54] [cursor=pointer]:
+                  - /url: /chartoftheday/
+              - listitem [ref=e55]:
+                - generic [ref=e56]:
+                  - link "Services" [ref=e57] [cursor=pointer]:
+                    - /url: /business/about-us/
+                  - button "Services" [ref=e58] [cursor=pointer]:
+                    - img [ref=e59]
+              - listitem [ref=e61]:
+                - button "Solutions" [ref=e62] [cursor=pointer]:
+                  - text: Solutions
+                  - img [ref=e63]
+              - listitem [ref=e65]:
+                - generic [ref=e66]:
+                  - link "Prices & Access" [ref=e67] [cursor=pointer]:
+                    - /url: /accounts/individuals/
+                  - button "Prices & Access" [ref=e68] [cursor=pointer]:
+                    - img [ref=e69]
+          - navigation "Meta" [ref=e72]:
+            - list [ref=e73]:
+              - listitem [ref=e74]:
+                - button "Select language" [ref=e75] [cursor=pointer]:
+                  - img [ref=e76]
+              - listitem [ref=e78]:
+                - button "Login" [ref=e80] [cursor=pointer]
+    - main [ref=e82]:
+      - region "Total liabilities Kirana Megatara FY 2016-2023" [ref=e84]:
+        - navigation "breadcrumbs" [ref=e85]:
+          - list [ref=e86]:
+            - listitem [ref=e87]:
+              - link "Chemicals & Resources" [ref=e88] [cursor=pointer]:
+                - /url: /markets/410/chemicals-resources/
+              - text: ›
+            - listitem [ref=e89]:
+              - link "Plastic & Rubber" [ref=e90] [cursor=pointer]:
+                - /url: /markets/410/topic/960/plastic-rubber/
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - link "Account overview" [ref=e93] [cursor=pointer]:
+                - /url: /accounts/individuals
+                - text: Premium +
+              - text: +
+            - text: +
+        - generic [ref=e94]:
+          - article [ref=e95]:
+            - heading "Total liabilities of Kirana Megatara from financial years 2016 to 2023 (in trillion Indonesian rupiah)" [level=2] [ref=e96]:
+              - generic [ref=e97]: Total liabilities of Kirana Megatara from financial years 2016 to 2023
+              - generic [ref=e98]: (in trillion Indonesian rupiah)
+          - article [ref=e99]:
+            - generic [ref=e100]:
+              - generic [ref=e102]:
+                - article [ref=e103]:
+                  - generic [ref=e105]:
+                    - paragraph [ref=e106]: The chart is not accessible to screen readers. Please switch to the table view to access the data.
+                    - img [ref=e109]
+                - generic [ref=e111]:
+                  - paragraph [ref=e113]:
+                    - button "Additional Information" [ref=e114] [cursor=pointer]:
+                      - generic [ref=e115]:
+                        - img [ref=e116]
+                        - text: Additional Information
+                  - generic [ref=e118]:
+                    - link "© Statista 2026" [ref=e120] [cursor=pointer]:
+                      - /url: /statistics/report-content/statistic/1242525
+                      - generic [ref=e121]: © Statista 2026
+                      - img [ref=e122]
+                    - button "Show source" [ref=e125] [cursor=pointer]:
+                      - generic [ref=e126]:
+                        - text: Show source
+                        - img [ref=e127]
+                - generic [ref=e129]:
+                  - button "Add Favorite" [ref=e131] [cursor=pointer]:
+                    - img [ref=e132]
+                  - button "Research Alerts" [ref=e135] [cursor=pointer]:
+                    - img [ref=e136]
+                  - button "Settings" [ref=e139] [cursor=pointer]:
+                    - img [ref=e140]
+                  - button "Share on Social Media" [ref=e143] [cursor=pointer]:
+                    - img [ref=e144]
+                  - button "Citation" [ref=e147] [cursor=pointer]:
+                    - img [ref=e148]
+                  - button "Print" [ref=e151] [cursor=pointer]:
+                    - img [ref=e152]
+              - generic [ref=e155]:
+                - generic [ref=e158]:
+                  - generic [ref=e159]: Download
+                  - generic [ref=e160]:
+                    - button "PDF +" [ref=e162] [cursor=pointer]:
+                      - generic [ref=e164]: PDF
+                      - generic [ref=e165]: +
+                    - button "XLS +" [ref=e167] [cursor=pointer]:
+                      - generic [ref=e169]: XLS
+                      - generic [ref=e170]: +
+                    - button "PNG +" [ref=e172] [cursor=pointer]:
+                      - generic [ref=e174]: PNG
+                      - generic [ref=e175]: +
+                    - button "PPT +" [ref=e177] [cursor=pointer]:
+                      - generic [ref=e179]: PPT
+                      - generic [ref=e180]: +
+                - article [ref=e183]:
+                  - generic [ref=e184]:
+                    - generic [ref=e185]:
+                      - generic [ref=e186]: Source
+                      - paragraph [ref=e187]:
+                        - button "Show sources information" [ref=e188] [cursor=pointer]:
+                          - img [ref=e189]
+                          - text: Show sources information
+                        - button "Show publisher information" [ref=e191] [cursor=pointer]:
+                          - img [ref=e192]
+                          - text: Show publisher information
+                        - link "Use Ask Statista Research Service" [ref=e194] [cursor=pointer]:
+                          - /url: https://ask.statista.com/
+                          - img [ref=e195]
+                          - text: Use Ask Statista Research Service
+                    - generic [ref=e197]:
+                      - generic [ref=e198]: Release date
+                      - paragraph [ref=e199]: April 2024
+                  - generic [ref=e200]:
+                    - generic [ref=e201]:
+                      - generic [ref=e202]: Region
+                      - paragraph [ref=e203]: Indonesia
+                    - generic [ref=e204]:
+                      - generic [ref=e205]: Survey time period
+                      - paragraph [ref=e206]: FY 2016 to FY 2023
+                    - generic [ref=e207]:
+                      - generic [ref=e208]: Supplementary notes
+                      - paragraph
+                      - paragraph [ref=e209]: 1,000 Indonesian rupiah (IDR) is equal to approximately 0.062 U.S. dollars and 0.058 euros as of May 2024.
+                      - paragraph
+                    - generic [ref=e210]:
+                      - generic [ref=e211]: Citation formats
+                      - button "Citation formats View options" [ref=e212] [cursor=pointer]:
+                        - img [ref=e213]
+                        - generic [ref=e215]: Citation formats
+                        - text: View options
+          - article [ref=e216]:
+            - generic [ref=e219]:
+              - generic [ref=e220]:
+                - heading "Total liabilities Kirana Megatara FY 2016-2023" [level=1] [ref=e221]
+                - generic [ref=e222]:
+                  - generic [ref=e223]:
+                    - text: Published by
+                    - generic [ref=e224]:
+                      - link "Doris Dokua Sasu" [ref=e226] [cursor=pointer]:
+                        - /url: /aboutus/our-research-commitment/2683/doris-dokua-sasu
+                      - text: ","
+                  - text: Nov 27, 2025
+              - generic [ref=e227]:
+                - generic [ref=e228]:
+                  - link "Link to Statistic" [ref=e229] [cursor=pointer]:
+                    - /url: "#statisticContainer"
+                  - paragraph [ref=e231]:
+                    - text: In 2023, the total liabilities of Kirana Megatara was amounted to
+                    - generic [ref=e232]: "****"
+                    - text: trillion Indonesian rupiah. Kirana Megatara is Indonesia's largest crumb rubber manufacturer, exporting their products to the leading global tire manufacturers all over the world.
+                - button "Show all numbers" [ref=e235] [cursor=pointer]
+          - article [ref=e238]:
+            - generic [ref=e239]:
+              - heading "Other statistics on the topic" [level=2] [ref=e240]:
+                - generic [ref=e241]: Other statistics on the topic
+              - generic [ref=e242]:
+                - link "+ Total liabilities PT Bakrie Sumatera Plantations FY 2015-2023" [ref=e243] [cursor=pointer]:
+                  - /url: /statistics/1242806/bakrie-sumatera-plantations-total-liabilities/
+                  - generic [ref=e245]: +
+                  - paragraph [ref=e247]: Total liabilities PT Bakrie Sumatera Plantations FY 2015-2023
+                - link "+ Toyo Tire's current liabilities 2013-2022" [ref=e248] [cursor=pointer]:
+                  - /url: /statistics/1405958/toyo-tire-current-liabilities/
+                  - generic [ref=e250]: +
+                  - paragraph [ref=e252]: Toyo Tire's current liabilities 2013-2022
+      - generic [ref=e255]:
+        - generic [ref=e257]:
+          - text: Access all statistics starting from
+          - strong [ref=e258]: $1,788 USD
+          - text: yearly
+          - superscript [ref=e259]:
+            - text: "*"
+            - superscript
+        - button "Prices & Access" [ref=e262] [cursor=pointer]
+      - generic [ref=e263]:
+        - paragraph [ref=e264]: "* For commercial use only"
+        - generic [ref=e265]:
+          - generic [ref=e266]:
+            - generic [ref=e267]:
+              - paragraph [ref=e268]: Basic Account
+              - generic [ref=e269]:
+                - img [ref=e270]
+                - generic [ref=e272]: For single users
+              - generic [ref=e273]:
+                - generic [ref=e274]: $0 USD
+                - generic [ref=e275]: Always free
+              - generic [ref=e276]: Access limited to Free Statistics. Premium Statistics are not included.
+            - list [ref=e277]:
+              - listitem [ref=e278]:
+                - img [ref=e279]
+                - generic [ref=e282]: Free Statistics
+          - generic [ref=e283]:
+            - generic [ref=e284]: Based on your interests
+            - generic [ref=e285]:
+              - paragraph [ref=e286]: Starter Account
+              - generic [ref=e287]:
+                - img [ref=e288]
+                - generic [ref=e290]: For single users
+              - generic [ref=e291]:
+                - generic [ref=e292]: $149 USD
+                - generic [ref=e293]:
+                  - text: per month, billed annually
+                  - superscript [ref=e294]: "1"
+              - link "Buy now" [ref=e296] [cursor=pointer]:
+                - /url: /accounts/individuals?recommendation=starter
+            - list [ref=e297]:
+              - listitem [ref=e298]:
+                - img [ref=e299]
+                - generic [ref=e302]: Free Statistics
+              - listitem [ref=e303]:
+                - img [ref=e304]
+                - generic [ref=e307]: Premium Statistics
+              - paragraph [ref=e308]: The statistic on this page is a Premium Statistic and is included in this account.
+          - generic [ref=e309]:
+            - generic [ref=e310]:
+              - paragraph [ref=e311]: Professional Account
+              - generic [ref=e312]:
+                - img [ref=e313]
+                - generic [ref=e315]: For teams of up to 5 people
+              - generic [ref=e316]:
+                - generic [ref=e317]: $1,399 USD
+                - generic [ref=e318]:
+                  - text: per month, billed annually
+                  - superscript [ref=e319]: "1"
+              - link "Buy now" [ref=e321] [cursor=pointer]:
+                - /url: /accounts/individuals?recommendation=professional
+            - list [ref=e322]:
+              - listitem [ref=e323]:
+                - img [ref=e324]
+                - generic [ref=e327]: Free + Premium Statistics
+              - listitem [ref=e328]:
+                - img [ref=e329]
+                - generic [ref=e332]: Reports
+              - listitem [ref=e333]:
+                - img [ref=e334]
+                - generic [ref=e337]: Market Insights
+        - paragraph [ref=e338]: 1 All prices do not include sales tax. The account requires an annual contract and will renew after one year to the regular list price.
+        - link "Compare accounts" [ref=e340] [cursor=pointer]:
+          - /url: /accounts/individuals#accountOverview__table
+          - text: Compare accounts
+          - img [ref=e341]
+      - generic [ref=e346]:
+        - generic [ref=e347]: "Leading companies trust Statista:"
+        - generic [ref=e348]:
+          - img "paypal" [ref=e349]
+          - img "google" [ref=e350]
+          - img "adobe" [ref=e351]
+          - img "pg" [ref=e352]
+          - img "samsung" [ref=e353]
+          - img "telekom" [ref=e354]
+      - blockquote [ref=e359]:
+        - generic [ref=e362]: Statista is a great source of knowledge, and pretty helpful to manage the daily work.
+        - img "Christof Baron" [ref=e364]
+        - paragraph [ref=e365]:
+          - text: Christof Baron
+          - text: CEO, MindShare Germany
+      - region "Other statistics that may interest you" [ref=e367]:
+        - generic [ref=e368]:
+          - heading "Other statistics that may interest you" [level=2] [ref=e369]:
+            - generic [ref=e370]: Other statistics that may interest you
+          - generic [ref=e372]:
+            - tablist [ref=e373]:
+              - tab "About the industry" [selected] [ref=e375] [cursor=pointer]
+              - tab "About the region" [ref=e377] [cursor=pointer]
+              - tab "Other regions" [ref=e379] [cursor=pointer]
+              - tab "Related statistics" [ref=e381] [cursor=pointer]
+            - tabpanel "About the industry" [ref=e383]:
+              - generic [ref=e384]:
+                - generic [ref=e385]: The most important statistics
+                - list [ref=e386]:
+                  - listitem [ref=e387]:
+                    - link "Total liabilities PT Bakrie Sumatera Plantations FY 2015-2023" [ref=e388] [cursor=pointer]:
+                      - /url: /statistics/1242806/bakrie-sumatera-plantations-total-liabilities/
+                      - generic [ref=e390]: Total liabilities PT Bakrie Sumatera Plantations FY 2015-2023
+                  - listitem [ref=e391]:
+                    - link "Toyo Tire's interest-bearing debt 2013-2022" [ref=e392] [cursor=pointer]:
+                      - /url: /statistics/1405966/toyo-tire-interest-bearing-debt/
+                      - generic [ref=e394]: Toyo Tire's interest-bearing debt 2013-2022
+      - region "Discover Statista" [ref=e396]:
+        - generic [ref=e397]:
+          - heading "Discover Statista" [level=2] [ref=e399]
+          - search [ref=e401]:
+            - generic [ref=e402]: Statista Search
+            - textbox "Statista Search" [ref=e403]:
+              - /placeholder: Find statistics, forecasts and reports
+            - button "Statista Search" [ref=e404] [cursor=pointer]
+          - generic [ref=e406]:
+            - text: Need help with using Statista for your research?
+            - link "Tutorials and first steps" [ref=e407] [cursor=pointer]:
+              - /url: /getting-started/welcome-to-statista
+      - generic [ref=e409]:
+        - 'heading "Further Content: You might find this interesting as well" [level=2] [ref=e410]':
+          - generic [ref=e411]:
+            - strong [ref=e412]: "Further Content:"
+            - text: You might find this interesting as well
+        - generic [ref=e414]:
+          - heading "Topics" [level=3] [ref=e415]
+          - link "Retirement assets worldwide" [ref=e416] [cursor=pointer]:
+            - /url: /topics/5170/retirement-assets-worldwide/
+            - generic [ref=e417]: Retirement assets worldwide
+          - link "Credit cards in the United States" [ref=e418] [cursor=pointer]:
+            - /url: /topics/1118/credit-cards-in-the-united-states/
+            - generic [ref=e419]: Credit cards in the United States
+          - link "Investment banking" [ref=e420] [cursor=pointer]:
+            - /url: /topics/1061/investment-banking/
+            - generic [ref=e421]: Investment banking
+          - link "Financial markets" [ref=e422] [cursor=pointer]:
+            - /url: /topics/1165/financial-markets/
+            - generic [ref=e423]: Financial markets
+          - link "Stock exchanges worldwide" [ref=e424] [cursor=pointer]:
+            - /url: /topics/1009/global-stock-exchanges/
+            - generic [ref=e425]: Stock exchanges worldwide
+      - generic [ref=e429]:
+        - generic [ref=e431]:
+          - generic [ref=e432]: Do you have any questions about our business solutions?
+          - paragraph [ref=e433]: We provide you with detailed information about our Professional Account.
+        - button "Contact us now" [ref=e436] [cursor=pointer]
+    - contentinfo [ref=e438]:
+      - navigation "Secondary" [ref=e440]:
+        - list [ref=e441]:
+          - listitem [ref=e442]:
+            - link "Home" [ref=e443] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e444]:
+            - link "About Statista" [ref=e445] [cursor=pointer]:
+              - /url: /business/about-us
+          - listitem [ref=e446]:
+            - link "Career" [ref=e447] [cursor=pointer]:
+              - /url: /working-at-statista/
+          - listitem [ref=e448]:
+            - link "Contact" [ref=e449] [cursor=pointer]:
+              - /url: /contact/
+          - listitem [ref=e450]:
+            - link "Help & FAQ" [ref=e451] [cursor=pointer]:
+              - /url: /help/
+          - listitem [ref=e452]:
+            - link "Report Bug" [ref=e453] [cursor=pointer]:
+              - /url: /bugreport/
+          - listitem [ref=e454]:
+            - link "Privacy" [ref=e455] [cursor=pointer]:
+              - /url: /imprint/#privacy/
+          - listitem [ref=e456]:
+            - button "Cookie settings" [ref=e457] [cursor=pointer]
+          - listitem [ref=e458]:
+            - link "Imprint" [ref=e459] [cursor=pointer]:
+              - /url: /imprint/
+  - generic:
+    - status

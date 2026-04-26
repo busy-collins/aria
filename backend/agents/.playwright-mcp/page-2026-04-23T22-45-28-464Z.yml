@@ -1,0 +1,342 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - generic [ref=e4]:
+      - link "Grand View Research Logo" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - generic: Grand View Research Logo
+        - img [ref=e7]
+      - generic [ref=e31]:
+        - text: 
+        - navigation [ref=e32]:
+          - list [ref=e34]:
+            - listitem [ref=e35]:
+              - link "Reports" [ref=e36] [cursor=pointer]:
+                - /url: "#"
+                - text: Reports
+                - generic [ref=e37]: 
+            - listitem [ref=e38]:
+              - link "Services" [ref=e39] [cursor=pointer]:
+                - /url: "#"
+                - text: Services
+                - generic [ref=e40]: 
+            - listitem [ref=e41]:
+              - link "About Us" [ref=e42] [cursor=pointer]:
+                - /url: "#"
+                - text: About Us
+                - generic [ref=e43]: 
+            - listitem [ref=e44]:
+              - link "Insights" [ref=e45] [cursor=pointer]:
+                - /url: "#"
+                - text: Insights
+                - generic [ref=e46]: 
+            - listitem [ref=e47]:
+              - generic [ref=e48]:
+                - generic:
+                  - textbox "Search..." [ref=e49]
+                  - button "Submit" [ref=e50] [cursor=pointer]
+                  - generic: 
+            - listitem [ref=e51]:
+              - link "Login" [ref=e52] [cursor=pointer]:
+                - /url: /login
+                - text: Login
+                - generic [ref=e53]: 
+  - generic [ref=e56]:
+    - heading "Global Leader in Market Reports & Statistics - Trusted by Fortune 2000 Companies" [level=1] [ref=e57]:
+      - text: Global Leader in Market Reports & Statistics -
+      - text: Trusted by Fortune 2000 Companies
+    - generic [ref=e59]:
+      - textbox "Search Market Reports, Forecasts & Statistics" [ref=e60]
+      - img [ref=e61]
+      - button "Search" [ref=e62] [cursor=pointer]
+    - list [ref=e63]:
+      - listitem [ref=e64]: "Popular Industries:"
+      - listitem [ref=e65]:
+        - link "Biotechnology" [ref=e66] [cursor=pointer]:
+          - /url: /industry/biotechnology
+      - listitem [ref=e67]:
+        - link "Clinical Diagnostics" [ref=e68] [cursor=pointer]:
+          - /url: /industry/clinical-diagnostics
+      - listitem [ref=e69]:
+        - link "Consumer Goods" [ref=e70] [cursor=pointer]:
+          - /url: /industry/consumer-goods
+      - listitem [ref=e71]:
+        - link "Polymers & Resins" [ref=e72] [cursor=pointer]:
+          - /url: /industry/plastics-polymers-and-resins
+      - listitem [ref=e73]:
+        - link "Technology" [ref=e74] [cursor=pointer]:
+          - /url: /industry/technology
+    - generic [ref=e75]:
+      - button "Request Custom Research" [ref=e76] [cursor=pointer]:
+        - img [ref=e77]
+        - text: Request Custom Research
+      - link "Download Free Sample" [ref=e84] [cursor=pointer]:
+        - /url: /download-free-sample
+        - text: Download Free Sample
+        - img [ref=e85]
+  - generic [ref=e88]:
+    - generic [ref=e91]:
+      - heading "Broad Client Base" [level=2] [ref=e92]
+      - paragraph [ref=e93]: With coverage in more than 50 industries and sub-sectors around the globe, we're trusted by the world's renowned academic institutions and Fortune 500 companies to provide insight into global and regional business environments and their implications for organizations.
+    - link "View More Client" [ref=e120] [cursor=pointer]:
+      - /url: /info/testimonials
+      - text: View More Client
+      - img [ref=e121]
+  - generic [ref=e123]:
+    - heading "Discover how Grand View Research can help your business:" [level=2] [ref=e124]
+    - generic [ref=e125]:
+      - list [ref=e126]:
+        - listitem [ref=e127]:
+          - link " Horizon" [ref=e128]:
+            - /url: "#des0"
+            - generic [ref=e129]: 
+            - text: Horizon
+        - listitem [ref=e130]:
+          - link " Brainshare" [ref=e131] [cursor=pointer]:
+            - /url: "#des"
+            - generic [ref=e132]: 
+            - text: Brainshare
+        - listitem [ref=e133]:
+          - link " Industry Reports" [ref=e134] [cursor=pointer]:
+            - /url: "#des1"
+            - generic [ref=e135]: 
+            - text: Industry Reports
+        - listitem [ref=e136]:
+          - link " Full Time Engagement" [expanded] [ref=e137] [cursor=pointer]:
+            - /url: "#des2"
+            - generic [ref=e138]: 
+            - text: Full Time Engagement
+        - listitem [ref=e139]:
+          - link " Custom Research" [expanded] [ref=e140] [cursor=pointer]:
+            - /url: "#des3"
+            - generic [ref=e141]: 
+            - text: Custom Research
+      - generic:
+        - generic:
+          - generic [ref=e142]:
+            - heading "Market intelligence platform will help you understand:" [level=3] [ref=e143]
+            - list [ref=e144]:
+              - listitem [ref=e145]:
+                - generic [ref=e146]: 
+                - text: Benchmark against competitors & industry
+              - listitem [ref=e147]:
+                - generic [ref=e148]: 
+                - text: Explore competitive strategy & market share
+              - listitem [ref=e149]:
+                - generic [ref=e150]: 
+                - text: Discover regional market opportunities
+              - listitem [ref=e151]:
+                - generic [ref=e152]: 
+                - text: Identify emerging market trends & dynamics
+              - listitem [ref=e153]:
+                - generic [ref=e154]: 
+                - text: Market intelligence with quality and accuracy
+              - listitem [ref=e155]:
+                - generic [ref=e156]: 
+                - text: Deliverable formats include PDF, PPT, Excel & Online Dashboard
+            - link "Read More" [ref=e157] [cursor=pointer]:
+              - /url: /horizon
+          - img "Compass" [ref=e160]
+  - text:    
+  - generic [ref=e166]:
+    - list [ref=e167]:
+      - listitem [ref=e168] [cursor=pointer]
+      - listitem [ref=e169] [cursor=pointer]
+      - listitem [ref=e170] [cursor=pointer]
+    - listbox [ref=e171]:
+      - generic [ref=e208]:
+        - heading "GVR data cited by the analysts of major media houses" [level=3] [ref=e209]
+        - paragraph [ref=e210]: Grand View Research is trusted worldwide for delivering reliable data, actionable insights, and tailored solutions that help businesses unlock growth and stay ahead in competitive markets.
+        - list [ref=e211]:
+          - listitem [ref=e212]: Trusted by global Fortune 500 companies
+          - listitem [ref=e213]: 50,000+ comprehensive market research reports
+          - listitem [ref=e214]: Global coverage across 45+ industries
+          - listitem [ref=e215]: Industry experts with deep domain knowledge
+        - link "Know More" [ref=e217] [cursor=pointer]:
+          - /url: /media-citations
+          - text: Know More
+          - img [ref=e218]
+    - button [ref=e219] [cursor=pointer]:
+      - img [ref=e220]
+    - button [ref=e222] [cursor=pointer]:
+      - img [ref=e223]
+  - generic [ref=e226]:
+    - generic [ref=e228]:
+      - heading "Latest Publications" [level=2] [ref=e229]
+      - paragraph [ref=e230]: Stay updated with expert perspectives, industry analysis, and forward-looking trends from our team of global research analysts.
+    - generic [ref=e233]:
+      - link "Americas Volumetric Construction Market" [ref=e234] [cursor=pointer]:
+        - /url: /industry-analysis/americas-volumetric-construction-market-report
+        - heading "Americas Volumetric Construction Market" [level=3] [ref=e235]
+      - paragraph [ref=e236]: The Americas volumetric construction market size was estimated at USD 7.0 billion in 2025 and is projected to reach $13.2 billion by 2033, growing at a CAGR of 8.3% fro...
+      - link "Read More" [ref=e237] [cursor=pointer]:
+        - /url: /industry-analysis/americas-volumetric-construction-market-report
+        - text: Read More
+        - img [ref=e238]
+    - generic [ref=e242]:
+      - link "Hydrogen Compressors Condition Monitoring Systems Market" [ref=e243] [cursor=pointer]:
+        - /url: /industry-analysis/hydrogen-compressors-condition-monitoring-systems-market-report
+        - heading "Hydrogen Compressors Condition Monitoring Systems Market" [level=3] [ref=e244]
+      - paragraph [ref=e245]: The global hydrogen compressors condition monitoring systems market size was estimated at USD 107.9 million in 2025 and is projected to reach USD 272.3 million by 2033,...
+      - link "Read More" [ref=e246] [cursor=pointer]:
+        - /url: /industry-analysis/hydrogen-compressors-condition-monitoring-systems-market-report
+        - text: Read More
+        - img [ref=e247]
+    - generic [ref=e251]:
+      - link "Autonomous Networks Market" [ref=e252] [cursor=pointer]:
+        - /url: /industry-analysis/autonomous-networks-market-report
+        - heading "Autonomous Networks Market" [level=3] [ref=e253]
+      - paragraph [ref=e254]: The global autonomous networks market size was estimated at USD 8.53 billion in 2025 and is projected to reach USD 37.90 billion by 2033, growing at a CAGR of 20.8% fro...
+      - link "Read More" [ref=e255] [cursor=pointer]:
+        - /url: /industry-analysis/autonomous-networks-market-report
+        - text: Read More
+        - img [ref=e256]
+    - link "More Publications" [ref=e259] [cursor=pointer]:
+      - /url: /info/reports-and-publications
+      - text: More Publications
+      - img [ref=e260]
+  - generic [ref=e261]:
+    - generic [ref=e264]:
+      - heading "Press Releases" [level=2] [ref=e265]
+      - link "Americas Volumetric Construction Market To Reach $13.2 Billion By 2033":
+        - /url: /press-release/americas-volumetric-construction-market-analysis
+        - heading "Americas Volumetric Construction Market To Reach $13.2 Billion By 2033" [level=3] [ref=e266] [cursor=pointer]
+      - paragraph [ref=e267]: Americas Volumetric Construction Market Growth & Trends The Americas volumetric construction market size is anticipated to reach USD 13.2 billion by 2033, growing at a CAGR o...
+      - link "Read More" [ref=e269] [cursor=pointer]:
+        - /url: /press-release/americas-volumetric-construction-market-analysis
+        - text: Read More
+        - img [ref=e270]
+      - separator [ref=e272]
+      - link "Technical Glass Market Size To Reach $45.9 Billion By 2033":
+        - /url: /press-release/global-technical-glass-market
+        - heading "Technical Glass Market Size To Reach $45.9 Billion By 2033" [level=3] [ref=e273] [cursor=pointer]
+      - paragraph [ref=e274]: Technical Glass Market Growth & Trends The global technical glass market size is anticipated to reach USD 45.9 billion by 2033 and is projected to grow at a CAGR of 4.1% from 2026 to 2033, ac...
+      - link "Read More" [ref=e276] [cursor=pointer]:
+        - /url: /press-release/global-technical-glass-market
+        - text: Read More
+        - img [ref=e277]
+      - separator [ref=e279]
+      - link "View More Press Releases" [ref=e281] [cursor=pointer]:
+        - /url: /press-release/press-room
+    - generic [ref=e283]:
+      - generic [ref=e284]:
+        - heading "Trusted market insights - try a free sample" [level=4] [ref=e285]
+        - paragraph [ref=e286]: See how our reports are structured and why industry leaders rely on Grand View Research. Get a free sample or ask us to tailor this report to your needs.
+        - generic [ref=e287]:
+          - link "Request Custom Research" [ref=e288] [cursor=pointer]:
+            - /url: /info/request-for-customization
+            - img [ref=e289]
+            - text: Request Custom Research
+          - link "Download Free Sample" [ref=e291] [cursor=pointer]:
+            - /url: /download-free-sample
+            - img [ref=e292]
+            - text: Download Free Sample
+      - generic [ref=e300]:
+        - generic [ref=e301]:
+          - img "logo" [ref=e303]
+          - generic [ref=e305]: GDPR & CCPA Compliant
+        - generic [ref=e306]:
+          - img "logo" [ref=e308]
+          - generic [ref=e310]: ISO 9001 Certified
+        - generic [ref=e311]:
+          - img "logo" [ref=e313]
+          - generic [ref=e315]: ISO 27001 Certified
+        - generic [ref=e316]:
+          - img "logo" [ref=e318]
+          - generic [ref=e320]: ESOMAR Member
+  - contentinfo [ref=e321]:
+    - generic [ref=e324]:
+      - generic [ref=e326]:
+        - generic [ref=e327]: Company
+        - list:
+          - listitem:
+            - link " Customer FAQ" [ref=e328] [cursor=pointer]:
+              - /url: /info/faqs
+              - generic [ref=e329]: 
+              - text: Customer FAQ
+          - listitem:
+            - link " How To Order" [ref=e330] [cursor=pointer]:
+              - /url: /info/how-to-order
+              - generic [ref=e331]: 
+              - text: How To Order
+          - listitem:
+            - link " Privacy Policy" [ref=e332] [cursor=pointer]:
+              - /url: /info/privacy-policy
+              - generic [ref=e333]: 
+              - text: Privacy Policy
+          - listitem:
+            - link " Terms Of Use" [ref=e334] [cursor=pointer]:
+              - /url: /info/terms-of-use
+              - generic [ref=e335]: 
+              - text: Terms Of Use
+          - listitem:
+            - link " Sitemap" [ref=e336] [cursor=pointer]:
+              - /url: /html-sitemap
+              - generic [ref=e337]: 
+              - text: Sitemap
+      - generic [ref=e339]:
+        - generic [ref=e340]: Services
+        - list:
+          - listitem:
+            - link " Brainshare (Consulting)" [ref=e341] [cursor=pointer]:
+              - /url: /brainshare
+              - generic [ref=e342]: 
+              - text: Brainshare (Consulting)
+          - listitem:
+            - link " Custom Research" [ref=e343] [cursor=pointer]:
+              - /url: /services/research-expertise
+              - generic [ref=e344]: 
+              - text: Custom Research
+          - listitem:
+            - link " Pipeline (Procurement Intelligence)" [ref=e345] [cursor=pointer]:
+              - /url: /pipeline
+              - generic [ref=e346]: 
+              - text: Pipeline (Procurement Intelligence)
+          - listitem:
+            - link " Signal (Pricing Database)" [ref=e347] [cursor=pointer]:
+              - /url: /signal
+              - generic [ref=e348]: 
+              - text: Signal (Pricing Database)
+          - listitem:
+            - link " Horizon (Subscription Database)" [ref=e349] [cursor=pointer]:
+              - /url: /horizon
+              - generic [ref=e350]: 
+              - text: Horizon (Subscription Database)
+      - generic [ref=e352]:
+        - generic [ref=e353]: Business Hours
+        - generic [ref=e354]:
+          - paragraph [ref=e355]: Our support available to help you 24 hours a day, five days a week.
+          - generic [ref=e356]:
+            - text: "Monday-Friday :"
+            - generic [ref=e357]: 9am to 5pm
+          - generic [ref=e358]:
+            - generic [ref=e359]: 
+            - link "+1-415-349-0058" [ref=e360] [cursor=pointer]:
+              - /url: tel:1-415-349-0058
+            - text: or
+            - link "1-888-202-9519" [ref=e361] [cursor=pointer]:
+              - /url: tel:1-888-202-9519
+          - generic [ref=e362]:
+            - generic [ref=e363]: 
+            - link "sales@grandviewresearch.com" [ref=e364] [cursor=pointer]:
+              - /url: mailto:sales@grandviewresearch.com
+    - generic [ref=e367]:
+      - paragraph [ref=e369]: Copyright © 2026 Grand View Research, All rights reserved.
+      - generic [ref=e372]:
+        - generic [ref=e373]: Follow us
+        - list [ref=e374]:
+          - listitem [ref=e375]:
+            - link "facebook icon " [ref=e376] [cursor=pointer]:
+              - /url: //www.facebook.com/grandviewresearch
+              - generic: facebook icon
+              - generic [ref=e377]: 
+          - listitem [ref=e378]:
+            - link "twitter icon" [ref=e379] [cursor=pointer]:
+              - /url: //twitter.com/GrandViewInc
+              - generic: twitter icon
+              - img [ref=e380]
+          - listitem [ref=e383]:
+            - link "linkedin icon " [ref=e384] [cursor=pointer]:
+              - /url: //www.linkedin.com/company/grand-view-research
+              - generic: linkedin icon
+              - generic [ref=e385]: 
+  - img [ref=e387] [cursor=pointer]

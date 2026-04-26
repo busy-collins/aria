@@ -1,0 +1,716 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - text: We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies .
+    - link "More info" [ref=e4] [cursor=pointer]:
+      - /url: https://www.marketsandmarkets.com/Privacy-12.html
+    - text: . X close
+  - generic [ref=e5]:
+    - banner [ref=e6]:
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - link "About Us" [ref=e14] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e15]:
+          - link "Careers" [ref=e16] [cursor=pointer]:
+            - /url: /Career.asp
+        - listitem [ref=e17]:
+          - link "Contact Us" [ref=e18] [cursor=pointer]:
+            - /url: /ContactUs.asp
+        - listitem [ref=e19]:
+          - link " Search" [ref=e21] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e22]: 
+            - text: Search
+        - listitem [ref=e23]:
+          - button "sidebar-toggle" [ref=e24] [cursor=pointer]:
+            - generic [ref=e25]: 
+          - complementary [ref=e26]:
+            - generic [ref=e27]:
+              - heading "Market Research Reports" [level=2] [ref=e28]
+              - button "close btn" [ref=e29] [cursor=pointer]:
+                - generic [ref=e30]: 
+            - navigation [ref=e31]:
+              - list [ref=e32]:
+                - listitem [ref=e33]:
+                  - heading "« Information & Communications Technology" [level=2] [ref=e34]:
+                    - link "« Information & Communications Technology" [ref=e35] [cursor=pointer]:
+                      - /url: /telecom-and-IT-market-research-113.html
+                - listitem [ref=e36]:
+                  - heading "« Semiconductor & Electronics" [level=2] [ref=e37]:
+                    - link "« Semiconductor & Electronics" [ref=e38] [cursor=pointer]:
+                      - /url: /semiconductorand-electonics-market-research-87.html
+                - listitem [ref=e39]:
+                  - heading "« Medical Devices" [level=2] [ref=e40]:
+                    - link "« Medical Devices" [ref=e41] [cursor=pointer]:
+                      - /url: /medical-device-market-research-11.html
+                - listitem [ref=e42]:
+                  - heading "« Chemicals" [level=2] [ref=e43]:
+                    - link "« Chemicals" [ref=e44] [cursor=pointer]:
+                      - /url: /chemicals-market-research-10.html
+                - listitem [ref=e45]:
+                  - heading "« Advanced Materials" [level=2] [ref=e46]:
+                    - link "« Advanced Materials" [ref=e47] [cursor=pointer]:
+                      - /url: /advanced-material-market-research-12.html
+                - listitem [ref=e48]:
+                  - heading "« Energy and Power" [level=2] [ref=e49]:
+                    - link "« Energy and Power" [ref=e50] [cursor=pointer]:
+                      - /url: /energy-power-supplies-market-research-4.html
+                - listitem [ref=e51]:
+                  - heading "« Food and Beverage" [level=2] [ref=e52]:
+                    - link "« Food and Beverage" [ref=e53] [cursor=pointer]:
+                      - /url: /food-and-beverages-market-research-6.html
+                - listitem [ref=e54]:
+                  - heading "« Biotechnology" [level=2] [ref=e55]:
+                    - link "« Biotechnology" [ref=e56] [cursor=pointer]:
+                      - /url: /biotech-market-research-5.html
+                - listitem [ref=e57]:
+                  - heading "« Aerospace & Defence" [level=2] [ref=e58]:
+                    - link "« Aerospace & Defence" [ref=e59] [cursor=pointer]:
+                      - /url: /aerospace-defence-148.html
+                - listitem [ref=e60]:
+                  - heading "« Automotive & Transportation" [level=2] [ref=e61]:
+                    - link "« Automotive & Transportation" [ref=e62] [cursor=pointer]:
+                      - /url: /automotive-and-transportation-market-research-121.html
+                - listitem [ref=e63]:
+                  - heading "« Automation & Process Control" [level=2] [ref=e64]:
+                    - link "« Automation & Process Control" [ref=e65] [cursor=pointer]:
+                      - /url: /industrial-automation-market-research-110.html
+                - listitem [ref=e66]:
+                  - heading "« Agriculture Industry" [level=2] [ref=e67]:
+                    - link "« Agriculture Industry" [ref=e68] [cursor=pointer]:
+                      - /url: /agriculture-market-research-173.html
+                - listitem [ref=e69]:
+                  - heading "« Packaging" [level=2] [ref=e70]:
+                    - link "« Packaging" [ref=e71] [cursor=pointer]:
+                      - /url: /packaging-market-research-183.html
+                - listitem [ref=e72]:
+                  - heading "« Pharmaceuticals" [level=2] [ref=e73]:
+                    - link "« Pharmaceuticals" [ref=e74] [cursor=pointer]:
+                      - /url: /pharmaceutical-market-research-3.html
+                - listitem [ref=e75]:
+                  - heading "« Healthcare IT" [level=2] [ref=e76]:
+                    - link "« Healthcare IT" [ref=e77] [cursor=pointer]:
+                      - /url: /healthcare-information-technology-171.html
+                - listitem [ref=e78]:
+                  - heading "« Analytical and Scientific Instrumentation" [level=2] [ref=e79]:
+                    - link "« Analytical and Scientific Instrumentation" [ref=e80] [cursor=pointer]:
+                      - /url: /analytical-and-scientific-instrumentation-market-research-202.html
+                - listitem [ref=e81]:
+                  - heading "« Building & Construction" [level=2] [ref=e82]:
+                    - link "« Building & Construction" [ref=e83] [cursor=pointer]:
+                      - /url: /building-construction-market-research-187.html
+                - listitem [ref=e84]:
+                  - heading "« Mining, Minerals & Metals" [level=2] [ref=e85]:
+                    - link "« Mining, Minerals & Metals" [ref=e86] [cursor=pointer]:
+                      - /url: /mining-minerals-and-metals-market-research-191.html
+        - listitem [ref=e87]:
+          - link "Sign In" [ref=e89] [cursor=pointer]:
+            - /url: /signin.asp
+      - generic [ref=e92]:
+        - link "MarketsandMarkets Logos" [ref=e94] [cursor=pointer]:
+          - /url: /
+          - img "MarketsandMarkets Logos" [ref=e95]
+        - navigation [ref=e97]:
+          - list [ref=e98]:
+            - listitem [ref=e99]:
+              - link "Industries  |" [ref=e100] [cursor=pointer]:
+                - /url: /Industries.asp
+                - text: Industries
+                - generic [ref=e101]: 
+                - text: "|"
+            - listitem [ref=e102]:
+              - link "Capabilities  |" [ref=e103] [cursor=pointer]:
+                - /url: javascript:void(0)
+                - text: Capabilities
+                - generic [ref=e104]: 
+                - text: "|"
+            - listitem [ref=e105]:
+              - link "Platform  |" [ref=e106] [cursor=pointer]:
+                - /url: javascript:void(0)
+                - text: Platform
+                - generic [ref=e107]: 
+                - text: "|"
+            - listitem [ref=e108]:
+              - link "Resources  |" [ref=e109] [cursor=pointer]:
+                - /url: javascript:void(0)
+                - text: Resources
+                - generic [ref=e110]: 
+                - text: "|"
+    - generic [ref=e113]:
+      - list [ref=e114]:
+        - listitem [ref=e115]:
+          - text: ":"
+          - link "HOME" [ref=e116] [cursor=pointer]:
+            - /url: index.html
+        - listitem [ref=e117]: REPORT SEARCH
+      - heading "Report Search" [level=5] [ref=e119]
+    - generic [ref=e120]:
+      - generic [ref=e121]:
+        - generic [ref=e122]:
+          - generic [ref=e123]:
+            - 'heading "Here are relevant reports on : ai-chipset-market" [level=1] [ref=e125]'
+            - generic [ref=e126]:
+              - list [ref=e127]:
+                - listitem [ref=e128]:
+                  - heading "5G in Defense Market by Platform (Land, Naval, Airborne), Solution (Communication Network,Chipset, Core Network), End User, Network Type, Installation and Region- Global Forecast to 2028" [level=3] [ref=e129]:
+                    - link "5G in Defense Market by Platform (Land, Naval, Airborne), Solution (Communication Network,Chipset, Core Network), End User, Network Type, Installation and Region- Global Forecast to 2028" [ref=e130] [cursor=pointer]:
+                      - /url: /Market-Reports/5g-defense-market-64142222.html
+                  - paragraph [ref=e131]: The 5G in Defense market is expected to grow from USD 0.9 Billion in 2023 to USD 2.3 billion by 2028, at a compound annual growth rate (CAGR) of 19.9% during the forecast period.The key Players Ericsson (Sweden), Nokia Networks (Finland), Huawei (China), Samsung Electronics Co.Ltd.(South Korea), NEC (Japan), Thales Group (France), L3Harris Technologies, Inc. (US), Raytheon Technologies (US), Ligado Networks (US), and Wind River Systems, Inc. (US).
+                  - list [ref=e132]:
+                    - listitem [ref=e133]: "Published: September 2023"
+                    - listitem [ref=e134]: "Price: $ 4950"
+                    - listitem [ref=e135]:
+                      - text: "TOC Available:"
+                      - generic [ref=e136]: 
+                - listitem [ref=e137]:
+                  - heading "Embedded Single Board Computer (SBC) Market - By Architecture (ARM based, x86 based, PowerPC based), Form Factor, Chipset & Geography - Analysis and Forecast (2014-2020)" [level=3] [ref=e138]:
+                    - link "Embedded Single Board Computer (SBC) Market - By Architecture (ARM based, x86 based, PowerPC based), Form Factor, Chipset & Geography - Analysis and Forecast (2014-2020)" [ref=e139] [cursor=pointer]:
+                      - /url: /Market-Reports/computer-market-142793688.html
+                  - paragraph
+                  - list [ref=e140]:
+                    - listitem [ref=e141]: "Published: May 2026"
+                    - listitem [ref=e142]: "Price: $ 4950"
+                    - listitem [ref=e143]:
+                      - text: "TOC Available:"
+                      - generic [ref=e144]: 
+                - listitem [ref=e145]:
+                  - heading "Generative AI Cybersecurity Market by Generative AI-based Cybersecurity (SIEM, Risk Assessment, Threat Intelligence), Cybersecurity Software for Generative AI (AI Model Security), Security Type (Data Encryption, Access Control) - Global Forecast to 2031" [level=3] [ref=e146]:
+                    - link "Generative AI Cybersecurity Market by Generative AI-based Cybersecurity (SIEM, Risk Assessment, Threat Intelligence), Cybersecurity Software for Generative AI (AI Model Security), Security Type (Data Encryption, Access Control) - Global Forecast to 2031" [ref=e147] [cursor=pointer]:
+                      - /url: /Market-Reports/generative-ai-cybersecurity-market-164202814.html
+                  - paragraph [ref=e148]: The generative AI cybersecurity market is undergoing rapid expansion, with estimates projecting a substantial market value surge from USD 8.65 billion in 2025 to USD 35.50 billion by 2031, at a CAGR of 26.5% during the forecast period. Microsoft (US), IBM (US), Google (US), SentinelOne (US), AWS (US), NVIDIA (US), Cisco (US), CrowdStrike (US), Fortinet (US), Zscaler (US), Trend Micro (Japan), Palo Alto Networks (US), BlackBerry (Canada), Darktrace (UK), F5 (US), Okta (US), Sangfor (China), SecurityScorecard (US), Sophos (UK), Broadcom (US), Trellix (US), Veracode (US), LexisNexis (US), Abnormal Security (US), Adversa AI (Israel), Aquasec (US), BigID (US), Checkmarx (US), Cohesity (US), Credo AI (US), NeuralTrust (Spain), Cybereason (US), DeepKeep (Israel), Elastic NV (US), Flashpoint (US), Lakera (US), MOSTLY AI (Austria), Recorded Future (US), Secureframe (US), Skyflow (US), SlashNext (US), Snyk (US), Tenable (US), TrojAI (Canada), VirusTotal (Spain), XenonStack (UAE), and Zerofox (US) are leading plaryes in generative AI cybersecurity market
+                  - list [ref=e149]:
+                    - listitem [ref=e150]: "Published: August 2025"
+                    - listitem [ref=e151]: "Price: $ 4950"
+                    - listitem [ref=e152]:
+                      - text: "TOC Available:"
+                      - generic [ref=e153]: 
+                - listitem [ref=e154]:
+                  - heading "Top 10 Advanced Materials & Technologies Market by Product (G. Fast Chipset, Quantum Dots, Flexible Battery, Graphene, 3D IC & 2.5D IC Packaging, Organic Electronics, Smart Glass, Others) - Global Forecast to 2021" [level=3] [ref=e155]:
+                    - link "Top 10 Advanced Materials & Technologies Market by Product (G. Fast Chipset, Quantum Dots, Flexible Battery, Graphene, 3D IC & 2.5D IC Packaging, Organic Electronics, Smart Glass, Others) - Global Forecast to 2021" [ref=e156] [cursor=pointer]:
+                      - /url: /Market-Reports/top-10-advanced-material-technologies-market-205930560.html
+                  - paragraph [ref=e157]: The top 10 advanced materials & technologies in electronics refers to the new or modifications to the existing materials & technologies to obtain superior performance or efficiency. The market for top 10 advanced materials & technologies in electronics is witnessing high growth owing to the increasing end-use applications, technological advances, and the high demand of these technologies from both the developed and emerging regions.
+                  - list [ref=e158]:
+                    - listitem [ref=e159]: "Published: February 2017"
+                    - listitem [ref=e160]: "Price: $ 4950"
+                    - listitem [ref=e161]:
+                      - text: "TOC Available:"
+                      - generic [ref=e162]: 
+                - listitem [ref=e163]:
+                  - heading "AI in Networks Market by Offering (Router & Switches, AI Networking Platform, Management Software, Software Defined Networking), Function (Optimization, Cybersecurity, Predictive Maintenance), Technology (Gen AI, ML, NLP) - Global Forecast to 2029" [level=3] [ref=e164]:
+                    - link "AI in Networks Market by Offering (Router & Switches, AI Networking Platform, Management Software, Software Defined Networking), Function (Optimization, Cybersecurity, Predictive Maintenance), Technology (Gen AI, ML, NLP) - Global Forecast to 2029" [ref=e165] [cursor=pointer]:
+                      - /url: /Market-Reports/ai-in-networks-market-131514910.html
+                  - paragraph [ref=e166]: The global AI in Networks market is expected to grow from USD 10.9 billion in 2024 to USD 46.8 billion by 2029, at a compound annual growth rate (CAGR) of 33.8% during the forecast period.The key players NVIDIA Corporation, Cisco Systems, Inc. (US), Telefonaktiebolaget LM Ericsson (Sweden), Hewlett Packard Enterprise Development LP (US), Arista Networks, Inc. (US).
+                  - list [ref=e167]:
+                    - listitem [ref=e168]: "Published: August 2024"
+                    - listitem [ref=e169]: "Price: $ 4950"
+                    - listitem [ref=e170]:
+                      - text: "TOC Available:"
+                      - generic [ref=e171]: 
+                - listitem [ref=e172]:
+                  - heading "AI Code Assistants Market by Offering (Generative AI Code Assistants, Developer Platforms, Coding APIs, Workflow Tools), Model Type (General-Purpose, Code-Specialized, Enterprise-Tuned Generative AI Models) - Global Forecast to 2032" [level=3] [ref=e173]:
+                    - link "AI Code Assistants Market by Offering (Generative AI Code Assistants, Developer Platforms, Coding APIs, Workflow Tools), Model Type (General-Purpose, Code-Specialized, Enterprise-Tuned Generative AI Models) - Global Forecast to 2032" [ref=e174] [cursor=pointer]:
+                      - /url: /Market-Reports/ai-code-assistants-market-53503659.html
+                  - paragraph [ref=e175]: The AI Code Assistants market size is projected to grow from USD 8.14 billion in 2025 to USD 127.05 billion by 2032, at a CAGR of 48.1% during the forecast period. The major players in the AI code assistants market include IBM (US), Oracle (US), Microsoft (US), AWS (US), Google (US), Jetbrains (Netherlands), Replit (US), Synk (US), OpenAI (US), Anthropic (US), Datadog (US), Tabnine (Israel), Sourcegraph (US), Cursor (US), Zencoder (US), Salesforce (US), Supermaven (US), Cline (US), Sourcery AI (UK), Refact.ai (UK), AskCodi (Brazil), Augment Code (US), TabbyML (US), Qodo (Israel), and WindSurf (US).
+                  - list [ref=e176]:
+                    - listitem [ref=e177]: "Published: April 2026"
+                    - listitem [ref=e178]: "Price: $ 4950"
+                    - listitem [ref=e179]:
+                      - text: "TOC Available:"
+                      - generic [ref=e180]: 
+                - listitem [ref=e181]:
+                  - heading "Legal AI Software Market by Offering (Legal AI Platforms, Generative AI Agents, Legal Drafting Tools, Report Generation Tools), Application (Ediscovery, Legal Research & Analytics, Contract Drafting & Review, IP Management) - Global Forecast to 2030" [level=3] [ref=e182]:
+                    - link "Legal AI Software Market by Offering (Legal AI Platforms, Generative AI Agents, Legal Drafting Tools, Report Generation Tools), Application (Ediscovery, Legal Research & Analytics, Contract Drafting & Review, IP Management) - Global Forecast to 2030" [ref=e183] [cursor=pointer]:
+                      - /url: /Market-Reports/legal-ai-software-market-88725278.html
+                  - paragraph [ref=e184]: The legal AI software market is expected to grow from USD 3.11 billion in 2025 to USD 10.82 billion by the year 2030, at a CAGR of 28.3% during the forecast period. The major players in the legal AI software market include LexisNexis (US), Thomson Reuters (Canada), Sirion (US), Wolters Kluwer (Netherlands), Relativity (US), CS DISCO (US), and Consilio (US), along with SMEs and startups such as Harvey (US), vLex (US), Lawgeex (US), Neota Logic (US), and eBrevia (US).
+                  - list [ref=e185]:
+                    - listitem [ref=e186]: "Published: February 2025"
+                    - listitem [ref=e187]: "Price: $ 4950"
+                    - listitem [ref=e188]:
+                      - text: "TOC Available:"
+                      - generic [ref=e189]: 
+                - listitem [ref=e190]:
+                  - heading "AI in Sports Market by Solutions (Performance Analytics, Player Monitoring, Broadcast Management), Technology (Generative AI and Other AI), and End User (Sports Associations, Sports Teams) - Global Forecast to 2030" [level=3] [ref=e191]:
+                    - link "AI in Sports Market by Solutions (Performance Analytics, Player Monitoring, Broadcast Management), Technology (Generative AI and Other AI), and End User (Sports Associations, Sports Teams) - Global Forecast to 2030" [ref=e192] [cursor=pointer]:
+                      - /url: /Market-Reports/ai-in-sports-market-122129412.html
+                  - paragraph [ref=e193]: The AI in Sports market is projected to reach USD 2.61 billion by 2030 at a compound annual growth rate (CAGR) of 16.7% during the forecast period. The major vendors covered in the AI in Sports market are Cisco (US), IBM (US), Intel (US), Microsoft (US), AWS (US), SAP SE (Germany), Ericsson (Sweden), Oracle (US), Stats Perform (US), Tech Mahindra (India), Sportradar AG (Switzerland), HCL Technologies (India), Extreme Networks (US), Salesforce (US), SAS Institute (US). These players have adopted various growth strategies, such as partnerships, agreements and collaborations, new product launches, enhancements, and acquisitions to expand their footprint in the AI in Sports market.
+                  - list [ref=e194]:
+                    - listitem [ref=e195]: "Published: November 2024"
+                    - listitem [ref=e196]: "Price: $ 4950"
+                    - listitem [ref=e197]:
+                      - text: "TOC Available:"
+                      - generic [ref=e198]: 
+                - listitem [ref=e199]:
+                  - heading "Emotion AI Market by Solutions (Emotion Recognition, Emotion AI SDKs and APIs, Emotion Analytics), Type (Text-Focused, Voice-Focused, Video & Multimodal), Technology (Machine Learning, NLP, Computer Vision) - Global Forecast to 2030" [level=3] [ref=e200]:
+                    - link "Emotion AI Market by Solutions (Emotion Recognition, Emotion AI SDKs and APIs, Emotion Analytics), Type (Text-Focused, Voice-Focused, Video & Multimodal), Technology (Machine Learning, NLP, Computer Vision) - Global Forecast to 2030" [ref=e201] [cursor=pointer]:
+                      - /url: /Market-Reports/emotion-ai-market-134111673.html
+                  - paragraph [ref=e202]: The Emotion AI market is projected to reach USD 9.01 billion by 2030, at a CAGR of 21.9% during the forecast period. The report profiles key players such as IBM (US), Microsoft (US), Google (US), Amazon (US), Smart Eye (Sweden), Entropik Tech (India), Uniphore (US), Audeering GmbH (Germany), VIER GmbH (Germany), Cognitec (Germany), Symanto (Germany), Realeyes (UK), CIPIA Vision (Israel), Noldus (Netherlands), Cogito (US), Morphcast (US), Voicesense (Israel), Superceed (Malaysia), Siena AI (US), Opsis (Singapore), Behavioral Signals (US), Hume (US), Kairos (US), Beemotion.AI (Australia), Intelligent Voice (UK), Davi (France), Utrigg (Ukraine), AttentionKart (India) and VERN AI (US).
+                  - list [ref=e203]:
+                    - listitem [ref=e204]: "Published: December 2024"
+                    - listitem [ref=e205]: "Price: $ 4950"
+                    - listitem [ref=e206]:
+                      - text: "TOC Available:"
+                      - generic [ref=e207]: 
+                - listitem [ref=e208]:
+                  - heading "AI in Mining Market by Offering (Software, Services), Mining Type (Surface, Underground), Deployment Mode (On-Premises, Cloud, Hybrid), Technology (Generative AI, Machine Learning, NLP), Application, Vertical, and Region - Global Forecast to 2032" [level=3] [ref=e209]:
+                    - link "AI in Mining Market by Offering (Software, Services), Mining Type (Surface, Underground), Deployment Mode (On-Premises, Cloud, Hybrid), Technology (Generative AI, Machine Learning, NLP), Application, Vertical, and Region - Global Forecast to 2032" [ref=e210] [cursor=pointer]:
+                      - /url: /Market-Reports/ai-in-mining-market-89359179.html
+                  - paragraph [ref=e211]: The AI in mining market is expected to grow from USD 2.60 billion in 2025 to USD 9.93 billion by 2032, at a compound annual growth rate (CAGR) of 21.1%during the forecast period. The Key Players Caterpillar (US), Komatsu Ltd. (Japan), Sandvik AB (Sweden), Epiroc AB (Sweden), Hitachi Construction Machinery Co., Ltd. (Japan), Hexagon AB (Sweden), Rockwell Automation (US), Siemens (Germany), Trimble Inc. (US), and ABB (Switzerland).
+                  - list [ref=e212]:
+                    - listitem [ref=e213]: "Published: December 2025"
+                    - listitem [ref=e214]: "Price: $ 4950"
+                    - listitem [ref=e215]:
+                      - text: "TOC Available:"
+                      - generic [ref=e216]: 
+              - list [ref=e217]:
+                - listitem
+                - listitem
+                - listitem [ref=e218]:
+                  - link "NEXT" [ref=e219] [cursor=pointer]:
+                    - /url: /report-search-page.asp?rpt=ai%2Dchipset%2Dmarket&offset=10
+                    - generic [ref=e220]:
+                      - text: NEXT
+                      - generic [ref=e221]: 
+                - listitem [ref=e222]:
+                  - link "LAST" [ref=e223] [cursor=pointer]:
+                    - /url: /report-search-page.asp?rpt=ai%2Dchipset%2Dmarket&offset=-1
+              - paragraph [ref=e224]:
+                - generic [ref=e225]: Records 1 to 10 of 50
+          - generic [ref=e226]:
+            - generic [ref=e227]:
+              - heading "Looking for a specific report?" [level=4] [ref=e228]
+              - paragraph [ref=e229]: Get in touch with our analyst today!
+              - generic [ref=e230]:
+                - group [ref=e231]:
+                  - textbox "Name" [ref=e233]
+                  - textbox "Job Title" [ref=e235]
+                  - textbox "Company" [ref=e237]
+                  - textbox "email" [ref=e239]
+                  - textbox "Phone" [ref=e241]
+                  - generic [ref=e242]:
+                    - combobox [ref=e243]:
+                      - option "Select Country" [selected]
+                      - option "Afghanistan ("
+                      - option "Aland Islands ("
+                      - option "Albania ("
+                      - option "Algeria ("
+                      - option "American Samoa ("
+                      - option "Andorra ("
+                      - option "Angola ("
+                      - option "Anguilla ("
+                      - option "Antarctica ("
+                      - option "Antigua and Barbuda ("
+                      - option "Argentina ("
+                      - option "Armenia ("
+                      - option "Aruba ("
+                      - option "Australia ("
+                      - option "Austria ("
+                      - option "Azerbaijan ("
+                      - option "Bahamas, The ("
+                      - option "Bahrain ("
+                      - option "Bangladesh ("
+                      - option "Barbados ("
+                      - option "Belarus ("
+                      - option "Belgium ("
+                      - option "Belize ("
+                      - option "Benin ("
+                      - option "Bermuda ("
+                      - option "Bhutan ("
+                      - option "Bolivia ("
+                      - option "Bonaire, Sint Eustatius and Saba ("
+                      - option "Bosnia and Herzegovina ("
+                      - option "Botswana ("
+                      - option "Bouvet Island ("
+                      - option "Brazil ("
+                      - option "British Indian Ocean Territory ("
+                      - option "Brunei ("
+                      - option "Bulgaria ("
+                      - option "Burkina Faso ("
+                      - option "Burundi ("
+                      - option "Cambodia ("
+                      - option "Cameroon ("
+                      - option "Canada ("
+                      - option "Cape Verde ("
+                      - option "Cayman Islands ("
+                      - option "Central African Republic ("
+                      - option "Chad ("
+                      - option "Chile ("
+                      - option "China ("
+                      - option "Christmas Island ("
+                      - option "Cocos (Keeling) Islands ("
+                      - option "Colombia ("
+                      - option "Comoros ("
+                      - option "Congo - the Democratic Republic of the ("
+                      - option "Congo, Republic of the ("
+                      - option "Cook Islands ("
+                      - option "Costa Rica ("
+                      - option "Cote d'Ivoire ("
+                      - option "Croatia ("
+                      - option "Cuba ("
+                      - option "Curacao ("
+                      - option "Cyprus ("
+                      - option "Czech Republic ("
+                      - option "Denmark ("
+                      - option "Djibouti ("
+                      - option "Dominica ("
+                      - option "Dominican Republic ("
+                      - option "Ecuador ("
+                      - option "Egypt ("
+                      - option "El Salvador ("
+                      - option "Equatorial Guinea ("
+                      - option "Eritrea ("
+                      - option "Estonia ("
+                      - option "Ethiopia ("
+                      - option "Falkland Islands (Malvinas) ("
+                      - option "Faroe Islands ("
+                      - option "Fiji ("
+                      - option "Finland ("
+                      - option "France ("
+                      - option "French Guiana ("
+                      - option "French Polynesia ("
+                      - option "French Southern Territories ("
+                      - option "Gabon ("
+                      - option "Gambia ("
+                      - option "Georgia ("
+                      - option "Germany ("
+                      - option "Ghana ("
+                      - option "Gibraltar ("
+                      - option "Greece ("
+                      - option "Greenland ("
+                      - option "Grenada ("
+                      - option "Guadeloupe ("
+                      - option "Guam ("
+                      - option "Guatemala ("
+                      - option "Guernsey ("
+                      - option "Guinea-Bissau ("
+                      - option "Guyana ("
+                      - option "Haiti ("
+                      - option "Heard Island and McDonald Islands ("
+                      - option "Holy See (Vatican City State) ("
+                      - option "Honduras ("
+                      - option "Hong Kong ("
+                      - option "Hungary ("
+                      - option "Iceland ("
+                      - option "India ("
+                      - option "Indonesia ("
+                      - option "Iran - Islamic Republic of ("
+                      - option "Iraq ("
+                      - option "Ireland ("
+                      - option "Isle of Man ("
+                      - option "Israel ("
+                      - option "Italy ("
+                      - option "Jamaica ("
+                      - option "Japan ("
+                      - option "Jersey ("
+                      - option "Jordan ("
+                      - option "Kazakhstan ("
+                      - option "Kenya ("
+                      - option "Kiribati ("
+                      - option "Korea, North ("
+                      - option "Korea, South ("
+                      - option "Kosovo ("
+                      - option "Kuwait ("
+                      - option "Kyrgyzstan ("
+                      - option "Laos ("
+                      - option "Latvia ("
+                      - option "Lebanon ("
+                      - option "Lesotho ("
+                      - option "Liberia ("
+                      - option "Libya ("
+                      - option "Liechtenstein ("
+                      - option "Lithuania ("
+                      - option "Luxembourg ("
+                      - option "Macau ("
+                      - option "Macedonia ("
+                      - option "Madagascar ("
+                      - option "Malawi ("
+                      - option "Malaysia ("
+                      - option "Maldives ("
+                      - option "Mali ("
+                      - option "Malta ("
+                      - option "Marshall Islands ("
+                      - option "Martinique ("
+                      - option "Mauritania ("
+                      - option "Mauritius ("
+                      - option "Mayotte ("
+                      - option "Mexico ("
+                      - option "Micronesia, Federated States of ("
+                      - option "Moldova ("
+                      - option "Monaco ("
+                      - option "Mongolia ("
+                      - option "Montenegro ("
+                      - option "Montserrat ("
+                      - option "Morocco ("
+                      - option "Mozambique ("
+                      - option "Myanmar ("
+                      - option "N Guinea ("
+                      - option "Namibia ("
+                      - option "Nauru ("
+                      - option "Nepal ("
+                      - option "Netherlands ("
+                      - option "Netherlands Antilles ("
+                      - option "New Caledonia ("
+                      - option "New Zealand ("
+                      - option "Nicaragua ("
+                      - option "Niger ("
+                      - option "Nigeria ("
+                      - option "Niue ("
+                      - option "Norfolk Island ("
+                      - option "Northern Mariana Islands ("
+                      - option "Norway ("
+                      - option "Oman ("
+                      - option "Pakistan ("
+                      - option "Palau ("
+                      - option "Palestinian Territories ("
+                      - option "Panama ("
+                      - option "Papua New Guinea ("
+                      - option "Paraguay ("
+                      - option "Peru ("
+                      - option "Philippines ("
+                      - option "Pitcairn ("
+                      - option "Poland ("
+                      - option "Portugal ("
+                      - option "Puerto Rico ("
+                      - option "Qatar ("
+                      - option "Reunion ("
+                      - option "Romania ("
+                      - option "Russia ("
+                      - option "Rwanda ("
+                      - option "Saint Barthelemy ("
+                      - option "Saint Helena, Ascension and Tristan da Cunha ("
+                      - option "Saint Kitts and Nevis ("
+                      - option "Saint Lucia ("
+                      - option "Saint Martin (French part) ("
+                      - option "Saint Pierre and Miquelon ("
+                      - option "Saint Vincent and the Grenadines ("
+                      - option "Samoa ("
+                      - option "San Marino ("
+                      - option "Sao Tome and Principe ("
+                      - option "Saudi Arabia ("
+                      - option "Senegal ("
+                      - option "Serbia ("
+                      - option "Seychelles ("
+                      - option "Sierra Leone ("
+                      - option "Singapore ("
+                      - option "Sint Maarten (Dutch part) ("
+                      - option "Slovakia ("
+                      - option "Slovenia ("
+                      - option "Solomon Islands ("
+                      - option "Somalia ("
+                      - option "South Africa ("
+                      - option "South Georgia and the South Sandwich Islands ("
+                      - option "South Sudan ("
+                      - option "Spain ("
+                      - option "Sri Lanka ("
+                      - option "Sudan ("
+                      - option "Suriname ("
+                      - option "Svalbard and Jan Mayen ("
+                      - option "Swaziland ("
+                      - option "Sweden ("
+                      - option "Switzerland ("
+                      - option "Syria ("
+                      - option "Taiwan ("
+                      - option "Tajikistan ("
+                      - option "Tanzania ("
+                      - option "Thailand ("
+                      - option "Timor-Leste ("
+                      - option "Togo ("
+                      - option "Tokelau ("
+                      - option "Tonga ("
+                      - option "Trinidad and Tobago ("
+                      - option "Tunisia ("
+                      - option "Turkey ("
+                      - option "Turkmenistan ("
+                      - option "Turks and Caicos Islands ("
+                      - option "Tuvalu ("
+                      - option "Uganda ("
+                      - option "Ukraine ("
+                      - option "Ukraine (Luhansk region) ("
+                      - option "United Arab Emirates ("
+                      - option "United Kingdom ("
+                      - option "United States ("
+                      - option "Uruguay ("
+                      - option "Uzbekistan ("
+                      - option "Vanuatu ("
+                      - option "Venezuela ("
+                      - option "Viet Nam ("
+                      - option "Vietnam ("
+                      - option "Virgin Islands - U.S. ("
+                      - option "Virgin Islands - British ("
+                      - option "Wallis and Futuna ("
+                      - option "Western Sahara ("
+                      - option "Yemen ("
+                      - option "Zambia ("
+                      - option "Zimbabwe ("
+                    - strong:
+                      - strong:
+                        - strong
+                  - strong [ref=e244]:
+                    - strong [ref=e245]:
+                      - strong [ref=e246]:
+                        - combobox [ref=e248]:
+                          - option "Choose Industry" [selected]
+                          - option "Aerospace and Defense"
+                          - option "Automotive and Transportation"
+                          - option "Chemical and Materials"
+                          - option "Energy and Power"
+                          - option "Food and Beverage"
+                          - option "Healthcare"
+                          - option "Information and Communication Technology"
+                          - option "Semiconductor and Electronics"
+                        - button "Submit " [ref=e249] [cursor=pointer]:
+                          - text: Submit
+                          - generic [ref=e250]: 
+                - strong:
+                  - strong:
+                    - strong
+            - strong:
+              - strong:
+                - strong
+          - strong:
+            - strong:
+              - strong
+        - strong:
+          - strong:
+            - strong
+      - strong:
+        - strong:
+          - strong
+    - strong [ref=e251]:
+      - strong [ref=e252]:
+        - strong [ref=e253]:
+          - contentinfo [ref=e254]:
+            - generic [ref=e257]:
+              - generic [ref=e259]:
+                - link "logo" [ref=e261] [cursor=pointer]:
+                  - /url: /
+                  - img "logo" [ref=e262]
+                - paragraph [ref=e264]: MarketsandMarkets is a competitive intelligence and market research platform providing over 10,000 clients worldwide with quantified B2B research and built on the Give principles.
+                - generic [ref=e265]:
+                  - heading "Follow Us" [level=3] [ref=e266]
+                  - generic:
+                    - link "" [ref=e267] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/marketsandmarkets
+                      - generic [ref=e268]: 
+                    - link "" [ref=e269] [cursor=pointer]:
+                      - /url: https://www.facebook.com/pages/Market-Research-Report/171919766173321
+                      - generic [ref=e270]: 
+                    - link [ref=e271] [cursor=pointer]:
+                      - /url: https://x.com/marketsmarkets
+                    - link "" [ref=e273] [cursor=pointer]:
+                      - /url: https://blog.marketsandmarkets.com
+                      - generic [ref=e274]: 
+                    - link "" [ref=e275] [cursor=pointer]:
+                      - /url: https://www.marketsandmarkets.com/feeds/feeds.xml
+                      - generic [ref=e276]: 
+                    - link "" [ref=e277] [cursor=pointer]:
+                      - /url: mailto:sales@marketsandmarkets.com
+                      - generic [ref=e278]: 
+                    - link "" [ref=e279] [cursor=pointer]:
+                      - /url: https://www.instagram.com/marketsandmarkets/
+                      - generic [ref=e280]: 
+                    - link "" [ref=e281] [cursor=pointer]:
+                      - /url: https://youtube.com/@MarketsandMarketsChannel
+                      - generic [ref=e282]: 
+              - generic [ref=e284]:
+                - heading "Quick Links" [level=3] [ref=e285]
+                - list [ref=e287]:
+                  - listitem [ref=e288]:
+                    - link "KnowledgeStore" [ref=e289] [cursor=pointer]:
+                      - /url: /Knowledgestore/Knowledge-store.asp
+                  - listitem [ref=e290]:
+                    - link "SalesPlay" [ref=e291] [cursor=pointer]:
+                      - /url: /AI-sales/
+                  - listitem [ref=e292]:
+                    - link "Top Market Reports" [ref=e293] [cursor=pointer]:
+                      - /url: /top-market-reports.asp
+                  - listitem [ref=e294]:
+                    - link "Market Research Reports" [ref=e295] [cursor=pointer]:
+                      - /url: /Market-Research-Reports.asp
+                  - listitem [ref=e296]:
+                    - link "Insights" [ref=e297] [cursor=pointer]:
+                      - /url: /megatrends-list.asp
+                  - listitem [ref=e298]:
+                    - link "Events" [ref=e299] [cursor=pointer]:
+                      - /url: https://events.marketsandmarkets.com/
+                  - listitem [ref=e300]:
+                    - link "CSR" [ref=e301] [cursor=pointer]:
+                      - /url: /CSR/impact.asp
+                  - listitem [ref=e302]:
+                    - link "About Us" [ref=e303] [cursor=pointer]:
+                      - /url: /AboutUs-8.html
+                  - listitem [ref=e304]:
+                    - link "Press Room" [ref=e305] [cursor=pointer]:
+                      - /url: /press-release-2.html
+                  - listitem [ref=e306]:
+                    - link "Careers" [ref=e307] [cursor=pointer]:
+                      - /url: /Career.asp
+                  - listitem [ref=e308]:
+                    - link "Contact Us" [ref=e309] [cursor=pointer]:
+                      - /url: /ContactUs.asp
+              - generic [ref=e310]:
+                - generic [ref=e311]:
+                  - heading [level=3] [ref=e312]
+                  - list [ref=e314]:
+                    - listitem [ref=e315]:
+                      - link "New Reports" [ref=e316] [cursor=pointer]:
+                        - /url: /new-reports.asp
+                    - listitem [ref=e317]:
+                      - link "Conferences" [ref=e318] [cursor=pointer]:
+                        - /url: /conferences.html
+                    - listitem [ref=e319]:
+                      - link "Media Mentions" [ref=e320] [cursor=pointer]:
+                        - /url: /News/Media_Mentions.asp
+                    - listitem [ref=e321]:
+                      - link "Research Insight" [ref=e322] [cursor=pointer]:
+                        - /url: /Research-Insight.html
+                    - listitem [ref=e323]:
+                      - link "SiteMap" [ref=e324] [cursor=pointer]:
+                        - /url: /sitemap.html
+                    - listitem [ref=e325]:
+                      - link "XML" [ref=e326] [cursor=pointer]:
+                        - /url: /sitemap.xml
+                - link "ISO Certification" [ref=e327] [cursor=pointer]:
+                  - /url: /iso.asp
+                  - img "ISO Certification" [ref=e328]
+                - link "ISO Certification" [ref=e329] [cursor=pointer]:
+                  - /url: /iso.asp
+                  - img "ISO Certification" [ref=e330]
+              - generic [ref=e331]:
+                - generic [ref=e332]:
+                  - heading [level=3] [ref=e333]
+                  - list [ref=e335]:
+                    - listitem [ref=e336]:
+                      - link "Industry News" [ref=e337] [cursor=pointer]:
+                        - /url: /industry-news.html
+                    - listitem [ref=e338]:
+                      - link "Feeds" [ref=e339] [cursor=pointer]:
+                        - /url: /feeds/feeds.xml
+                    - listitem [ref=e340]:
+                      - link "Blogs" [ref=e341] [cursor=pointer]:
+                        - /url: https://www.marketsandmarkets.com/blogs
+                    - listitem [ref=e342]:
+                      - link "Disclaimer" [ref=e343] [cursor=pointer]:
+                        - /url: /Disclaimer.asp
+                    - listitem [ref=e344]:
+                      - link "Privacy Policy" [ref=e345] [cursor=pointer]:
+                        - /url: /Privacy-12.html
+                    - listitem [ref=e346]:
+                      - link "Terms and Conditions" [ref=e347] [cursor=pointer]:
+                        - /url: /Terms-13.html
+                - generic [ref=e348]: ABOUT TRUST ONLINE
+                - img "payment cards" [ref=e350]
+                - iframe [ref=e351]:
+                  - generic [active]:
+                    - generic:
+                      - table:
+                        - rowgroup:
+                          - row:
+                            - cell
+          - paragraph [ref=e361]: ©2026 Marketsandmarkets Research Private Ltd. All Rights Reserved.
+          - link "DMCA.com Protection Status" [ref=e362] [cursor=pointer]:
+            - /url: https://www.dmca.com/Protection/Status.aspx?ID=512a6ded-1d0f-4215-a661-d50c1031e201&refurl=https://www.marketsandmarkets.com/report-search-page.asp?rpt=ai-chipset-market
+            - img "DMCA.com Protection Status" [ref=e363]
+  - strong:
+    - strong:
+      - strong
+  - text: 

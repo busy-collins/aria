@@ -1,0 +1,9 @@
+# Create example for each terraform module
+for module in terraform/*/; do
+    if [ -f "$module/terraform.tfvars" ]; then
+        echo "Creating example for $module"
+        # Copy but blank out sensitive values
+        sed 's/=.*/= "your-value-here"/' "$module/terraform.tfvars" \
+          > "$module/terraform.tfvars.example"
+    fi
+done

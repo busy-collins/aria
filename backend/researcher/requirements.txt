@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai-agents
+openai
+httpx
+python-dotenv
+boto3
+pydantic
+langsmith
+langgraph
+langgraph-openai
