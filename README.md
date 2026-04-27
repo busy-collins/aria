@@ -2,15 +2,9 @@
 content = open('README.md').read()
 
 # Find architecture section boundaries
-arch_start = content.find('## Architecture Overview')
-arch_end   = content.find('\n## ', arch_start + 1)
+arch_start = content.find('## Architecture Overview
 
-# Write the mermaid block using a variable to avoid escaping issues
-mermaid_fence = '```'
-
-new_arch = f"""## Architecture Overview
-
-{mermaid_fence}mermaid
+```mermaid
 flowchart TD
     User([User Browser]) --> CF[CloudFront CDN]
     CF --> S3[S3 Bucket - Next.js Static Files]
@@ -39,9 +33,6 @@ flowchart TD
     style Aurora fill:#2563EB,color:#fff
     style S3V fill:#2563EB,color:#fff
     style SM fill:#DC2626,color:#fff
-{mermaid_fence}
+```
 
-"""
-
-new_content = content[:arch_start] + new_arch + content[arch_end:]
-open('README.md', 'w').write(new_content)
+)
