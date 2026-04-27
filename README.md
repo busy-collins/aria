@@ -1,59 +1,31 @@
-python3 -c "
+# Read current README
 content = open('README.md').read()
 
-old_arch = '''## Architecture Overview
+# Find architecture section boundaries
+arch_start = content.find('## Architecture Overview')
+arch_end   = content.find('\n## ', arch_start + 1)
 
-    User
-     |
-     v
-CloudFront CDN
-     |
-     +-- S3 (Next.js static files)
-     |
-     +-- API Gateway --> Lambda (FastAPI + Mangum)
-                              |
-                             SQS
-                              |
-                       Analyst Lambda
-                              |
-                    App Runner (Researcher)
-                    Playwright MCP + Real Browsing
-                    S3 Vectors + SageMaker RAG
-                              |
-                       Writer Lambda
-                              |
-                       Critic Lambda
-                              |
-                    Aurora PostgreSQL Serverless'''
+# Write the mermaid block using a variable to avoid escaping issues
+mermaid_fence = '```'
 
-new_arch = '''## Architecture Overview
+new_arch = f"""## Architecture Overview
 
-\`\`\`mermaid
+{mermaid_fence}mermaid
 flowchart TD
     User([User Browser]) --> CF[CloudFront CDN]
-
-    CF --> S3[S3 Bucket\\nNext.js Static Files]
-    CF --> AG[API Gateway\\nHTTP API]
-
-    AG --> API[Lambda: API\\nFastAPI + Mangum\\nClerk JWT Auth]
-
-    API --> SQS[SQS Queue\\naria-research-jobs]
-    API --> Aurora[(Aurora PostgreSQL\\nServerless v2)]
-
-    SQS --> Analyst[Lambda: Analyst\\nOpenAI Agents SDK]
-
-    Analyst --> Researcher[App Runner\\nResearcher Service\\nPlaywright MCP\\nReal Web Browsing]
-
-    Researcher --> Ingest[API Gateway\\nIngest Endpoint]
-    Ingest --> IngestLambda[Lambda: Ingest]
-    IngestLambda --> SM[SageMaker\\nall-MiniLM-L6-v2\\nEmbeddings]
-    SM --> S3V[(S3 Vectors\\nresearch-briefs index)]
-
+    CF --> S3[S3 Bucket - Next.js Static Files]
+    CF --> AG[API Gateway - HTTP API]
+    AG --> API[Lambda: API - FastAPI + Mangum - Clerk JWT Auth]
+    API --> SQS[SQS Queue - aria-research-jobs]
+    API --> Aurora[(Aurora PostgreSQL Serverless v2)]
+    SQS --> Analyst[Lambda: Analyst - OpenAI Agents SDK]
+    Analyst --> Researcher[App Runner - Playwright MCP - Real Web Browsing]
+    Researcher --> Ingest[Lambda: Ingest]
+    Ingest --> SM[SageMaker - all-MiniLM-L6-v2 Embeddings]
+    SM --> S3V[(S3 Vectors - research-briefs)]
     Analyst --> S3V
-    Analyst --> Writer[Lambda: Writer\\nGPT-4o\\nCapture Pattern]
-
-    Writer --> Critic[Lambda: Critic\\nGPT-4o-mini\\nLLM-as-judge]
-
+    Analyst --> Writer[Lambda: Writer - GPT-4o - Capture Pattern]
+    Writer --> Critic[Lambda: Critic - GPT-4o-mini - LLM-as-judge]
     Critic --> Aurora
 
     style User fill:#4F46E5,color:#fff
@@ -67,10 +39,9 @@ flowchart TD
     style Aurora fill:#2563EB,color:#fff
     style S3V fill:#2563EB,color:#fff
     style SM fill:#DC2626,color:#fff
-\`\`\`'''
+{mermaid_fence}
 
-print('Found old arch:', old_arch[:50] in content)
-new_content = content.replace(old_arch, new_arch)
+"""
+
+new_content = content[:arch_start] + new_arch + content[arch_end:]
 open('README.md', 'w').write(new_content)
-print('Done')
-"
