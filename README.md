@@ -1,8 +1,6 @@
-# Read current README
-content = open('README.md').read()
+# README
 
-# Find architecture section boundaries
-arch_start = content.find('## Architecture Overview
+# Architecture Overview
 
 ```mermaid
 flowchart TD
